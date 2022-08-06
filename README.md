@@ -5,8 +5,6 @@
 
 # Oyunu Geliştirme Süreci
 
-![User Story (2)](https://user-images.githubusercontent.com/83366765/170770981-edf9ae12-36fc-4b27-aec9-58afef276f27.png)
-
 Oyunun asıl oluşturulma tarihi Aralık-Ocak 2021 tarihine denk gelmektedir. Bu kadar uzun sürmesinin sebebi ise tam projeye başlandığı vakit sınav haftası bulunuyordu. Ona rağmen az da olsa geliştirmiştik. 1-2 hafta içinde oyunu hızlıca, acele bir şekilde bitirip oyunculara sunduk. Geribildirimler sayesinde en az 60 tane özellik, bug vb. eklendi, düzeltildi, silindi. Oyunun o zamanki haline göre bayağı değiştiğini düşünüyoruz. Oyuna toplam 50 saat bile harcanmamıştır. Sınav haftaları başladığı vakit oyuna başlandığı için. Hatta şuan bu yazıyı yazarken pazartesi günü Matematik sınavım bulunuyor. (27 Mayıs 2022 Cuma) 
 
 Oyunda fazla bir değişiklik yapıldığını düşünüyoruz yenilikleri umuyoruz ki seversiniz. En ufak bug bulduğunuzda veya önerileriniz olduğunda en aşağıdaki iletişim kısmından bize ulaşarak bu durumları bizlere bildirebilirsiniz.
@@ -45,9 +43,6 @@ Tabii ki bu oyun tam olarak test edilmediği için ne kadar bug bulunuyor henüz
 ![efffect2](https://user-images.githubusercontent.com/83366765/170770931-1a41f071-edf9-4650-8efa-baa46b9bc317.png)
 ![tabanca](https://user-images.githubusercontent.com/83366765/170770938-6adea47d-0466-4c97-bf58-36a9b5fb8096.png)
 
-#
-![Adsız tasarım](https://user-images.githubusercontent.com/83366765/170771473-a018ef96-3d1f-48ac-bd50-1d5d23bfdef8.png)
-
 # Vecta Görsel İçerikler ve Oyun Ne Kadar Bize Ait?
 
 Bildiğiniz üzere oyunu tek kişi geliştirdiğimiz için modeller, çizimler ve sesler tamamen Sketchfab, Devianart, Youtube, Freesound sitelerinden kullanılmıştır. Yakın zamanda hangi model, çizim veya sesin kimden alındığı yazılacaktır. Kodlama, arayüz fikirleri vb. tamamen bize aittir.
@@ -58,8 +53,6 @@ https://www.youtube.com/watch?v=SLdo59tBZ1g
 https://www.youtube.com/watch?v=ctEPAPz_SfY
 
 # Önemli Bilgilendirme ve İletişim
-
-   ![Adsız tasarım (1)](https://user-images.githubusercontent.com/83366765/170773013-87fa0336-7bc0-4326-be9e-c3821760be62.png)
 
 Instagram = https://www.instagram.com/ichuusy/
 Twitter = https://twitter.com/ichuusy
