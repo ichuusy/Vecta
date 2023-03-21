@@ -54,9 +54,9 @@ https://www.youtube.com/watch?v=ctEPAPz_SfY
 
 # Önemli Bilgilendirme ve İletişim
 
-Instagram = https://www.instagram.com/ichuusy/
-Twitter = https://twitter.com/ichuusy
-Itch.io = https://ichuusy.itch.io/
-Discord = ichuusy#5823
+Instagram = https://www.instagram.com/pykatone/
+Twitter = https://twitter.com/pykatonestudio
+Itch.io = https://pykatone.itch.io/
+Discord = ichuusy#2655
 
 
